@@ -27,7 +27,7 @@
 
     for(let i =0; i<nums.length; i++)
     {
-        if(candidate === 0)
+        if(points === 0)
         {
                 candidate = nums[i]
         }
